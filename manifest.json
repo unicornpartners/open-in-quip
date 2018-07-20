@@ -1,13 +1,13 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 1,
 
-  "name": "Open in Quip",
-  "description": "This extension provides a shortcut for opening a Quip URL in the desktop application",
+  "name": "Open in Quip-Amazon",
+  "description": "This extension provides a shortcut for opening quip-amazon.com URLs in the desktop application",
   "version": "1.0",
 
   "browser_action": {
 
-    "default_title": "Open in Quip"
+    "default_title": "Open in Quip-Amazon"
   },
 
   "background":{
