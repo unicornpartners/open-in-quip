@@ -3,7 +3,7 @@
 
   "name": "Open in Quip-Amazon",
   "description": "This extension provides a shortcut for opening quip-amazon.com URLs in the desktop application",
-  "version": "1.0",
+  "version": "1.1",
 
   "browser_action": {
 
